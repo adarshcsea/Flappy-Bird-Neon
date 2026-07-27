@@ -7,7 +7,7 @@ A modern neon-themed **Flappy Bird** web game built using **HTML, CSS, and JavaS
 > user *adarshcsea*
 
 ---
-
+ 
 ## Live Demo
 
 https://adarshcsea.github.io/Flappy-Bird-Neon/
